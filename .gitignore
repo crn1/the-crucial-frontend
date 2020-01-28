@@ -1,0 +1,14 @@
+node_modules/*
+dist/*
+node_modules/
+
+dist
+app.js
+theme.zip
+
+webpack-stats.json
+
+.DS_Store
+.Trashes
+.log
+logs/*
